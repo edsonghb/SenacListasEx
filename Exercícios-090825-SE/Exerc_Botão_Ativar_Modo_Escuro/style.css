@@ -1,0 +1,20 @@
+main{
+    margin: 0 auto;
+    text-align: center;
+}
+button{
+    margin-top: 1rem;
+    padding: 0.6rem 1rem;
+    font-size: 1rem;
+    border: 0;
+    border: 0;
+    border-radius: 8px;
+    background: var(--accent);
+    color: pointer;
+}
+/* Classe que ativa o modo escuro*/
+.dark {
+    --bg: #111111;
+    --text:#f3f3f3;
+    --accent:#7aa2ff;
+}
