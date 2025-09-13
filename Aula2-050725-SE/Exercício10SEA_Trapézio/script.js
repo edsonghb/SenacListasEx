@@ -1,0 +1,6 @@
+let basemaior = Number(prompt('Digite o valor da base maior do trapézio '))
+let basemenor = Number(prompt('Digite o valor da base menor do trapézio'))
+let altura = Number(prompt('Digite o valor da altura do trapézio'))
+let dividirpor2 = Number(prompt('Digite o valor 2'))
+let areatrapezio = ((basemaior)+(basemenor))*(altura)/(dividirpor2)
+alert(`Área do trapézio (${basemaior}+${basemenor})*${altura}/${dividirpor2}=${areatrapezio}`)

@@ -1,0 +1,5 @@
+let base = Number(prompt('Digite o valor da base do triângulo'))
+let altura = Number(prompt('Digite o valor da altura do triângulo'))
+let dividirpor2 = Number(prompt('Digite 2'))
+let areatriangulo = ((base * altura) / (dividirpor2))
+alert(`Área do triângulo (${base}*${altura})/${dividirpor2}=${areatriangulo}`)

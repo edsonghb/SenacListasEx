@@ -1,0 +1,5 @@
+let compdiagmaior = Number(prompt('Digite o valor da diagonal maior'))
+let compdiagmenor = Number(prompt('Digite o valor da diagonal menor'))
+let dividirpor2 = Number(prompt('Digite o valor 2'))
+let arealosango = ((compdiagmaior)*(compdiagmenor))/(dividirpor2)
+alert(`Área do losango (${compdiagmaior}*${compdiagmenor})/${dividirpor2}=${arealosango}`)
