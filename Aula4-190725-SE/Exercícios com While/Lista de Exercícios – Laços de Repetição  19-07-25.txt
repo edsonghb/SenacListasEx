@@ -1,0 +1,17 @@
+Lista de Exercícios – Laços de Repetição   -  19/07/25
+
+Exercícios com for
+1. Imprima os números de 1 a 30 que são múltiplos de 3.
+2. Conte de 0 a 50 e diga se cada número é par ou ímpar.
+3. Mostre a tabuada do número 6 (de 1 a 10).
+4. Imprima os números de 10 a 0, em contagem regressiva.
+5. Conte de 5 em 5 até 50 (5, 10, 15...).
+6. Para os números de 1 a 20, imprima: "Número X é menor que 10", "igual a 10" ou "maior que 10".
+Exercícios com while
+7. Imprima os números pares de 0 a 20 com while.
+8. Conte de 1 a 25 e diga se o nº é múltiplo de 5.
+9. Imprima a sequência 2,4,6, --- até 20.
+10. Conte de 15 a 5, diminuindo de 1 em 1.
+11. Some os números de 1 a 10 com while e mostre o total.
+12. Use prompt() p/ pedir um nº e imprima todos os nºs de 1 até esse nº com while.
+
