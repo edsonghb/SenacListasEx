@@ -1,0 +1,37 @@
+Lista 1 de Exercícios
+
+Faça um programa que receba dois valores e faça a soma - ok
+Faça um programa que receba dois valores e faça a Subtração - ok
+Faça um programa que receba dois valores e faça a multiplicação - ok
+Faça um programa que receba dois valores e faça a Divisão - ok
+Faça um programa para calcular área de um quadrado - ok
+Faça um programa para calcular área de um retângulo - ok 
+Faça um programa para calcular área de um losango - ok
+Faça um programa para calcular área de um triângulo - ok
+Faça um programa para calcular área de um círculo  - ok
+Faça um programa para calcular área de um trapézio - ok
+
+Lista 2 de Exercícios
+
+Exercício 1 – Par ou ímpar
+Peça um número ao usuário e informe se ele é par ou ímpar. - ok
+
+Exercício 2 – Número positivo, negativo ou zero
+Peça um número e diga se ele é positivo, negativo ou igual a zero. - ok
+
+Exercício 3 – Verificar o turno
+Peça ao usuário para digitar o turno que estuda(M para manhã,
+T para tarde ou N para noite) e mostre uma saudação apropriada. - ok
+
+Exercício 4 – Comparar dois números
+Peça dois números ao usuário e informe qual é o maior,
+ou se eles são iguais. - ok
+
+Exercício 5 – Verificar se pode votar
+Enunciado:
+Peça a idade do usuário e informe se ele pode votar ou não pode votar. - ok
+
+Exercício 6 – Verificar senha
+Peça uma senha e compare com a senha correta (por exemplo, “1234”).
+Se for igual, mostre “Acesso permitido”. Se estiver errada,
+mostre “Acesso negado”. - ok
